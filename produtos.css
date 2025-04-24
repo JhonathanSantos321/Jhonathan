@@ -13,8 +13,9 @@ nav a {
         text-transform: uppercase;
         color: #000000;
         font-weight: bold;
-        font-size: 50px;
+        font-size: 25px;
         text-decoration: none;
+        text-align: center;
 }
 .caixa{
         position: relative;
@@ -26,4 +27,8 @@ nav{
        position: absolute; 
        top: 110px;
        right: 5;
+}
+.logo{
+        width: 250px;
+
 }
