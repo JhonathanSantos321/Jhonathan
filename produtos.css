@@ -20,15 +20,67 @@ nav a {
 .caixa{
         position: relative;
         width: 940px;
-        margin: 0 auto;
+        margin: 0 right;
 }
 
 nav{
-       position: absolute; 
-       top: 110px;
-       right: 5;
+       position: right; 
+       top: 150px;
+       right: 10;
 }
 .logo{
-        width: 250px;
-
+        width: 350px;
 }
+
+.produtos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.produtos li {
+     display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1%;
+    padding: 30px 1px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 30px;
+}
+
+.produtos h2 {
+        font-size: 30px;
+        font-weight: bold;
+}
+
+.produtos-descricao {
+        font-size: 18px;
+}
+
+.produtos-preco {
+        font-size: 22px;
+        font-weight: bold;
+        margin-top: 10px;
+}
+
+nav a:hover {
+     color: rgb(161, 38, 161);
+     text-decoration: underline;
+}
+
+.produtos li:hover {
+        border-color: rgb(161, 38, 161);
+}
+
+.produtos li:active {
+    border-color: rgb(161, 38, 161);
+}
+
+.produtos li:hover h2 {
+        font-size: 34px;
+}
+    
+
+
