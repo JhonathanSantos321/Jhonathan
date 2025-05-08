@@ -1,0 +1,37 @@
+body {
+    background-color:  goldenrod
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: left;
+}
+
+main{
+     background-color:  black;
+}
+
+#banner {
+    width: 30%;
+}
+
+p{
+     color: rgb(13, 224, 136);
+}
+h3{
+    color: goldenrod;
+}
+
+h2{
+    color: goldenrod;
+}
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+}
