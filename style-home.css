@@ -55,13 +55,6 @@ nav a {
     top: 0px;
 }
 
-.logo{
-    text-align: center;
-    width: 400px;
-    margin: 0 0 0 220px;
-
-}
-
 footer {
 text-align: center;
 background-color: goldenrod;
@@ -81,6 +74,17 @@ main {
 p{
     padding: 15px;
 
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 400px;
+    display: inline-block;
 }
 
 
