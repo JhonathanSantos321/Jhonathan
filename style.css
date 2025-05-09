@@ -72,18 +72,7 @@ nav{
 nav a:hover {
      color: rgb(161, 38, 161);
      text-decoration: underline;
-}
 
-.produtos li:hover {
-        border-color: rgb(161, 38, 161);
-}
-
-.produtos li:active {
-    border-color: rgb(161, 38, 161);
-}
-
-.produtos li:hover h2 {
-        font-size: 34px;
 }
 
 footer {
@@ -92,37 +81,6 @@ footer {
     padding: 40px 0;
 }
 
-.copyright {
-        color: rgb(0, 0, 0);
-        font-size: 13px;
-        margin-top: 20px;
-}
 
-.img-footer {
-        width: 400px;
-        margin: 0 0 0 -130px;
-}
-
-main {
-        width: 940px;
-        margin: 0 auto;
-}
-
-form {
-        margin: 40px 0 0;
-}
-
-form label {
-        display: block;
-        font-size: 20px;
-        margin:0 0 10px;
-}
-
-form input {
-        display: block;
-        margin:  0 0 20px;
-        padding: 10px 25px;
-        width: 50%;
-}
 
 
